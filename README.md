@@ -27,3 +27,9 @@ awslocal dynamodb create-table \
     --attribute-definitions AttributeName=id,AttributeType=S \
     --billing-mode PAY_PER_REQUEST \
     --region us-west-2
+
+
+Data Increment
+Update Table to have a stream
+Invoke lambda from stream
+Send email
