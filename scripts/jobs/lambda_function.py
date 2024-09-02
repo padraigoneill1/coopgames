@@ -1,7 +1,11 @@
 import json
+import os
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+
+MAILTRAP_USERNAME = os.getenv('MAILTRAP_USERNAME')
+MAILTRAP_PASSWORD = os.getenv('MAILTRAP_PASSWORD')
 
 def lambda_handler(event, context):
     for record in event['Records']:
@@ -9,10 +13,12 @@ def lambda_handler(event, context):
             new_item = record['dynamodb']['NewImage']
             game_name = new_item['name']['S']
 
+
             # Mailtrap SMTP server configuration
             smtp_host = 'sandbox.smtp.mailtrap.io'
             smtp_port = 2525
-
+            smtp_user = MAILTRAP_USERNAME
+            smtp_pass = MAILTRAP_PASSWORD
 
             # Email content
             subject = "New Game Added to DynamoDB"

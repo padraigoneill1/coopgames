@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Details</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Game Details</h1>
+    <table>
+        <tr>
+            <th>ID</th>
+            <td>{{ game.id }}</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>{{ game.name }}</td>
+        </tr>
+        <tr>
+            <th>First Release Date</th>
+            <td>{{ game.first_release_date }}</td>
+        </tr>
+        <tr>
+            <th>Platforms</th>
+            <td>{{ game.platforms }}</td>
+        </tr>
+        <tr>
+            <th>Genres</th>
+            <td>{{ game.genres }}</td>
+        </tr>
+        <tr>
+            <th>Multiplayer Modes</th>
+            <td>{{ game.multiplayer_modes }}</td>
+        </tr>
+        <tr>
+            <th>Summary</th>
+            <td>{{ game.summary }}</td>
+        </tr>
+        <tr>
+            <th>Storyline</th>
+            <td>{{ game.storyline }}</td>
+        </tr>
+        <tr>
+            <th>Cover URL</th>
+            <td>{{ game.cover_url }}</td>
+        </tr>
+        <tr>
+            <th>Total Rating</th>
+            <td>{{ game.total_rating }}</td>
+        </tr>
+        <tr>
+            <th>Total Rating Count</th>
+            <td>{{ game.total_rating_count }}</td>
+        </tr>
+        <tr>
+            <th>Involved Companies</th>
+            <td>{{ game.involved_companies }}</td>
+        </tr>
+    </table>
+    <a href="/">Back to List</a>
+</body>
+</html>

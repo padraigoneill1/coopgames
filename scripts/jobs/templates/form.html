@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Game</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Add New Game</h1>
+    <form action="/add_game" method="post">
+        <label for="id">ID:</label>
+        <input type="text" id="id" name="id" required><br><br>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="first_release_date">First Release Date:</label>
+        <input type="number" id="first_release_date" name="first_release_date"><br><br>
+        <label for="platforms">Platforms (comma-separated):</label>
+        <input type="text" id="platforms" name="platforms"><br><br>
+        <label for="genres">Genres (comma-separated):</label>
+        <input type="text" id="genres" name="genres"><br><br>
+        <label for="multiplayer_modes">Multiplayer Modes (JSON):</label>
+        <textarea id="multiplayer_modes" name="multiplayer_modes"></textarea><br><br>
+        <label for="summary">Summary:</label>
+        <textarea id="summary" name="summary"></textarea><br><br>
+        <label for="storyline">Storyline:</label>
+        <textarea id="storyline" name="storyline"></textarea><br><br>
+        <label for="cover_url">Cover URL:</label>
+        <input type="text" id="cover_url" name="cover_url"><br><br>
+        <label for="total_rating">Total Rating:</label>
+        <input type="number" step="0.1" id="total_rating" name="total_rating"><br><br>
+        <label for="total_rating_count">Total Rating Count:</label>
+        <input type="number" id="total_rating_count" name="total_rating_count"><br><br>
+        <label for="involved_companies">Involved Companies (comma-separated):</label>
+        <input type="text" id="involved_companies" name="involved_companies"><br><br>
+        <input type="submit" value="Add Game">
+    </form>
+    <a href="/">Back to List</a>
+</body>
+</html>

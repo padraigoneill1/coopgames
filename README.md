@@ -62,7 +62,11 @@ aws --endpoint-url=http://localhost:4566 lambda create-event-source-mapping \
 
 Test by adding items (I.E) Running transform
 
-
+Front End
+Add basic Fastapi Example
+Run with uvicorn
+Add basic html Templates
+Implement check for access key (auth)
 
 
 
