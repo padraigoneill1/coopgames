@@ -13,6 +13,7 @@ IGDB_ACCESS_TOKEN = os.getenv('IGDB_ACCESS_TOKEN')
 SQS_ENDPOINT_URL = os.getenv('SQS_ENDPOINT_URL')
 SQS_QUEUE_URL = os.getenv('SQS_QUEUE_URL')
 AWS_REGION = os.getenv('AWS_REGION')
+MESSAGES_TO_PROCESS = int(os.getenv('MESSAGES_TO_PROCESS'))
 
 
 
@@ -29,12 +30,12 @@ headers = {
 def fetch_multiplayer_games():
     url = "https://api.igdb.com/v4/games"
 
-    query = """
+    query = f"""
     fields id, name, first_release_date, platforms.name, genres.name, 
            multiplayer_modes.*, summary, storyline, cover.url, 
            total_rating, total_rating_count, involved_companies.company.name;
     where multiplayer_modes != null & total_rating > 5;
-    limit 100;
+    limit {MESSAGES_TO_PROCESS};
     """
     response = requests.post(url, headers=headers, data=query)
 
