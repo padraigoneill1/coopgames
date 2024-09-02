@@ -1,3 +1,4 @@
+import json
 import os
 import boto3
 import requests
@@ -11,9 +12,12 @@ IGDB_CLIENT_ID = os.getenv('IGDB_CLIENT_ID')
 IGDB_ACCESS_TOKEN = os.getenv('IGDB_ACCESS_TOKEN')
 SQS_ENDPOINT_URL = os.getenv('SQS_ENDPOINT_URL')
 SQS_QUEUE_URL = os.getenv('SQS_QUEUE_URL')
+AWS_REGION = os.getenv('AWS_REGION')
+
+
 
 # Initialize SQS client
-sqs = boto3.client('sqs', endpoint_url=SQS_ENDPOINT_URL, region_name='us-east-1')
+sqs = boto3.client('sqs', endpoint_url=SQS_ENDPOINT_URL, region_name=AWS_REGION)
 
 # IGDB API request headers
 headers = {
@@ -57,9 +61,11 @@ def send_message_to_sqs(game):
         'involved_companies': [company['company']['name'] for company in game.get('involved_companies', [])],
     }
 
+    message_body_json = json.dumps(message_body)
+
     response = sqs.send_message(
         QueueUrl=SQS_QUEUE_URL,
-        MessageBody=str(message_body),
+        MessageBody=str(message_body_json),
         MessageGroupId='multiplayerGames',
         MessageDeduplicationId=str(game['id'])
     )
