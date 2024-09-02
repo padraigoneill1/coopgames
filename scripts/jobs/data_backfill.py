@@ -1,0 +1,5 @@
+# IGDB and AWS configuration
+IGDB_CLIENT_ID = os.getenv('IGDB_CLIENT_ID')
+IGDB_ACCESS_TOKEN = os.getenv('IGDB_ACCESS_TOKEN')
+SQS_ENDPOINT_URL = os.getenv('SQS_ENDPOINT_URL')
+SQS_QUEUE_URL = os.getenv('SQS_QUEUE_URL')
