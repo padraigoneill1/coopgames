@@ -1,6 +1,7 @@
 import os
 import json
 import boto3
+from boto3.dynamodb.conditions import Attr
 from dotenv import load_dotenv
 from decimal import Decimal
 
@@ -52,8 +53,14 @@ def process_message(message_body):
         }
 
         print(f"DEBUG: {item}")
-        response = table.put_item(Item=item)
-        print(f"Added game to DynamoDB: {response}")
+        try:
+            response = table.put_item(
+                Item=item,
+                ConditionExpression=Attr('id').not_exists()  # Only add the item if 'id' doesn't already exist
+            )
+            print(f"Added game to DynamoDB: {response}")
+        except dynamodb.meta.client.exceptions.ConditionalCheckFailedException:
+            print(f"Game with id {item['id']} already exists. Skipping.")
 
 
 def receive_and_process_messages():
