@@ -34,7 +34,7 @@ def fetch_multiplayer_games():
            multiplayer_modes.*, summary, storyline, cover.url, 
            total_rating, total_rating_count, involved_companies.company.name;
     where multiplayer_modes != null & total_rating > 5;
-    limit 50;
+    limit 100;
     """
     response = requests.post(url, headers=headers, data=query)
 

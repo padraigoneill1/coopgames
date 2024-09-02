@@ -31,5 +31,38 @@ awslocal dynamodb create-table \
 
 Data Increment
 Update Table to have a stream
-Invoke lambda from stream
-Send email
+
+awslocal dynamodb create-table \
+    --table-name coopgames \
+    --key-schema AttributeName=id,KeyType=HASH \
+    --attribute-definitions AttributeName=id,AttributeType=S \
+    --billing-mode PAY_PER_REQUEST \
+    --region us-west-2 \ 
+    --stream-specification StreamEnabled=true,StreamViewType=NEW_IMAGE
+
+Zip code
+zip function.zip lambda_function.py
+
+Deploy to localstack 
+aws --endpoint-url=http://localhost:4566 lambda create-function \
+    --function-name ProcessDynamoDBStream \
+    --runtime python3.8 \
+    --handler lambda_function.lambda_handler \
+    --zip-file fileb://function.zip \
+    --role arn:aws:iam::000000000000:role/lambda-ex 
+
+Get Dynamodb stream 
+aws --endpoint-url=http://localhost:4566 dynamodbstreams list-streams --table-name coopgames
+
+Add event source mapping 
+aws --endpoint-url=http://localhost:4566 lambda create-event-source-mapping \
+    --function-name ProcessDynamoDBStream \
+    --event-source-arn ARN_FROM_ABOVE \
+    --starting-position LATEST
+
+Test by adding items (I.E) Running transform
+
+
+
+
+

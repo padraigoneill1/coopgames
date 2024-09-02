@@ -24,7 +24,6 @@ dynamodb = boto3.resource('dynamodb', endpoint_url=DYNAMODB_ENDPOINT_URL, region
 # Get the DynamoDB table
 table = dynamodb.Table(DYNAMODB_TABLE_NAME)
 
-
 def process_message(message_body):
     print(f"FOOBAR{message_body}")
     game = json.loads(message_body, parse_float=Decimal)
@@ -36,23 +35,6 @@ def process_message(message_body):
     )
 
     if has_splitscreen:
-        # Add to DynamoDB
-        # response = table.put_item(
-        #     Item={
-        #         'game_id': str(game['id']),
-        #         'name': game.get('name'),
-        #         'first_release_date': game.get('first_release_date'),
-        #         'platforms': game.get('platforms', []),
-        #         'genres': game.get('genres', []),
-        #         'multiplayer_modes': game.get('multiplayer_modes', []),
-        #         'summary': game.get('summary'),
-        #         'storyline': game.get('storyline'),
-        #         'cover_url': game.get('cover_url'),
-        #         'total_rating': game.get('total_rating'),
-        #         'total_rating_count': game.get('total_rating_count'),
-        #         'involved_companies': game.get('involved_companies', [])
-        #     }
-        # )
         # Construct the item for DynamoDB
         item = {
             'id': str(game['id']),
