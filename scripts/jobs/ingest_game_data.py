@@ -16,7 +16,6 @@ AWS_REGION = os.getenv('AWS_REGION')
 MESSAGES_TO_PROCESS = int(os.getenv('MESSAGES_TO_PROCESS'))
 
 
-
 # Initialize SQS client
 sqs = boto3.client('sqs', endpoint_url=SQS_ENDPOINT_URL, region_name=AWS_REGION)
 
