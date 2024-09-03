@@ -1,0 +1,1079 @@
+[
+    {
+        "summary": "Extreme-G is a futuristic racing game with an emphasis on speed. It also features many weapons and an F-Zero style energy shield and regeneration.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "3485",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "945fd4e8-76e9-daf6-c18a-29911d9e0dca",
+                "id": "14965",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "4"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co7myg.jpg",
+        "first_release_date": "875577600",
+        "genres": [
+            "Shooter",
+            "Racing",
+            "Sport"
+        ],
+        "storyline": "Extreme-G is set in the distant future where Earth is reduced into a wasteland. From their new-found planet the human colonists watch their remote controlled bikes wreak havoc through their ancient cities and fight their way to determine which racer manages to qualify.",
+        "name": "Extreme-G",
+        "total_rating_count": "20",
+        "total_rating": "60.44649945941863",
+        "id": "3485",
+        "involved_companies": [
+            "Acclaim Entertainment",
+            "Probe Entertainment",
+            "Gradiente"
+        ],
+        "platforms": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "summary": "The genuine sequel to the original Armored Core. Thrown into the world of AC mechs, you must complete the objectives set for you by a range of different companies, each with a hefty pay packet attached. If the mission is completed, the money goes towards upgrades and repairs to your mech.\n\nThe collection of items to upgrade your mech is fully stocked with weapons, defense systems, rocket packs and guidance systems to increase accuracy and speed. Certain missions require a particular upgrade for the mission to be completed correctly, so spending the cash wisely is important to your career.\n\nOnce your mech is ready for battle, you can also take on a friend in arena mode, where one-on-one battles rage on for as long as you wish in huge outdoor areas.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "31719",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": false,
+                "platform": "8",
+                "splitscreen": true,
+                "offlinecoopmax": "0",
+                "checksum": "792090f4-13b3-64b3-c16b-ad879e21411b",
+                "id": "9683",
+                "offlinemax": "2"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co4dtx.jpg",
+        "first_release_date": "972518400",
+        "genres": [],
+        "storyline": "Sixty-seven years after the events of the Subterranean Era in prior games, Earth's second largest corporation, Zio Matrix, acquires plans for a research project on Mars, dating back before the Great Destruction. Using these plans, Zio sends a research team to Mars to begin the Terraforming Project, which causes the Martian surface and atmosphere to approximate that of Earth. Other corporations learn of the project and quickly follow Zio Matrix, bringing with them the competitive environment that existed on Earth, and the employ of the mercenaries of Nerves Concord.\n\nAs the three companies' war comes to a close, the most powerful, Zio Matrix, attempts a coup against the government, which has regained control through its elite mercenary team, The Frighteners, led by Leos Klein. But in the chaos that ensues, the Frighteners turn on the government, assassinate the new leader of the LCC, and take control of powerful Disorder technology. The player character is tasked with confronting them and saving the human populace of Mars.",
+        "name": "Armored Core 2",
+        "total_rating_count": "6",
+        "total_rating": "70.12926663531009",
+        "id": "31719",
+        "involved_companies": [
+            "FromSoftware",
+            "Agetec",
+            "Crave Entertainment"
+        ],
+        "platforms": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "summary": "Set in the near-future, Overstrike follows a team of four elite agents obliterating enemy strongholds using fringe-tech gadgets and lethal teamwork. The members of Overstrike 9 are comprised of an ex-mercenary, Interpol\\'s most wanted thief, a gifted young scientist and a decorated detective. Collectively, they are the agency\\'s outcasts. But a shadowy organization threatens to wipe out humankind. Thanks to each agent\\'s unique talents and a tendency to completely ignore protocol \u2013 Overstrike 9 is the only option left. Overstrike blends developer Insomniac Games\\' flair for exotic weaponry and immersive storytelling with a touch of humor in this 4 person co-op action game.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": true,
+                "offlinecoop": true,
+                "game": "1828",
+                "lancoop": false,
+                "onlinecoopmax": "4",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "9",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "b9e684fe-42a8-d96c-6b2b-92e14b5a4b76",
+                "id": "5573",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k6u.jpg",
+        "first_release_date": "1369699200",
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ],
+        "storyline": null,
+        "name": "Fuse",
+        "total_rating_count": "24",
+        "total_rating": "61.22570045487914",
+        "id": "1828",
+        "involved_companies": [
+            "Insomniac Games",
+            "Electronic Arts"
+        ],
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "summary": "Conflict: Vietnam is the third installment in the Conflict series of video games for the PlayStation 2, Xbox and Microsoft Windows",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "5786",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "11",
+                "splitscreen": true,
+                "offlinecoopmax": "4",
+                "checksum": "a4df8b2f-d4f3-7360-2cf1-7375e424a1f4",
+                "id": "1951",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co5x7e.jpg",
+        "first_release_date": "1094169600",
+        "genres": [
+            "Shooter",
+            "Strategy",
+            "Tactical"
+        ],
+        "storyline": null,
+        "name": "Conflict: Vietnam",
+        "total_rating_count": "12",
+        "total_rating": "63.33264590973523",
+        "id": "5786",
+        "involved_companies": [
+            "SCi Games",
+            "Global Star Software",
+            "Pivotal Games"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 2",
+            "Xbox",
+            "Gizmondo"
+        ]
+    },
+    {
+        "summary": "In Avariavs, players choose a party of 3 heroes to battle against an opponent\u2019s party. During battle, opposing players choose their actions simultaneously and then witness the mayhem of their decisions. Combat rages on until one winner reigns victorious by decimating their opponent\u2019s HP to zero.\n\nBe warned however, matches that do not conclude promptly may be subject to judgement\u2026",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "98405",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "455f2ea9-0945-4ec1-a8ee-7550e4b9e231",
+                "onlinemax": "2",
+                "id": "9019",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "2",
+                "platform": "6"
+            },
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "98405",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "913a9d78-00bb-ad20-9f8f-59ea8b9bdbfa",
+                "onlinemax": "2",
+                "id": "9020",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "2",
+                "platform": "14"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co1h2l.jpg",
+        "first_release_date": "1541635200",
+        "genres": [
+            "Role-playing (RPG)",
+            "Strategy",
+            "Turn-based strategy (TBS)",
+            "Tactical",
+            "Indie"
+        ],
+        "storyline": "On AVARIA, emotions are dangerous. For the Hume, feeling the wrong emotion might cause an explosion or start a pandemic. For the Eoni, feeling any emotion at all could strip you of your immortality. It\u2019s in this world that a plot is brewing among the Hume: a plot that, if fulfilled, will leave only one race standing. Kasper and his friends must dive into a world of technology, magery, politics, and ethical ambiguity to stop an almost unspeakable horror: the world\u2019s first genocide.\nWorld\n\nAVARIA is home to two intelligent species. The first were the Eoni: immortal, intellectual, and entirely incapable of feeling emotion. It was only a few thousand years ago that an Eoni finally stumbled upon an emotion and, in so doing, transformed themselves into the first Hume. The Hume \u2013 beautiful, sexual, magical creatures \u2013 have been willing to live under the rule of the Eoni ever since, following their laws in exchange for guidance\u2026 until now.",
+        "name": "Avariavs",
+        "total_rating_count": "0",
+        "total_rating": "50",
+        "id": "98405",
+        "involved_companies": [
+            "Juncture Media"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "Mac"
+        ]
+    },
+    {
+        "summary": "The world controlled by blade, magic and fist...Fighters of diverse goals and backgrounds gather for battle...Blade Arcus from Shining Battle Arena is a massive 2D fighting game, developed by Studio Saizensen, featuring characters from the Shining series.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "23185",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "8d7fe006-5a86-195a-f75e-aa7f788e6272",
+                "onlinemax": "2",
+                "id": "10430",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "2",
+                "platform": "6"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co3mcd.jpg",
+        "first_release_date": "1469664000",
+        "genres": [
+            "Fighting"
+        ],
+        "storyline": null,
+        "name": "Blade Arcus From Shining: Battle Arena",
+        "total_rating_count": "0",
+        "total_rating": "60",
+        "id": "23185",
+        "involved_companies": [
+            "Studio Saizensen"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)"
+        ]
+    },
+    {
+        "summary": "This game is a split-screen vertical danmaku shooting game where two characters engage in the normal Touhou-esque gameplay, while unleashing attacks and character-specific spell cards onto the other player, similar to that of Phantasmagoria of Dim.Dream. When a player gets hit enough times to lose all their hit points, they are defeated.\n\nThe game features a Story Mode, which pits the player against a series of nine opponents that get progressively harder, and a versus mode, which is a single match against either an AI opponent or a human opponent(or, two AI opponents). With the netplay patch, multiplayer is also possible through LAN or over the Internet.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "27156",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "af682d6b-05f3-5736-c02c-d5e8ba6f09a6",
+                "onlinemax": "2",
+                "id": "19881",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "2",
+                "platform": "6"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co26ad.jpg",
+        "first_release_date": "1123977600",
+        "genres": [
+            "Shooter",
+            "Indie"
+        ],
+        "storyline": "Starting off somewhere near the Misty Lake next to the Scarlet Devil Mansion, the heroines set out and soon encounter the other characters. Battling them in succession, they eventually reach those who have the answers, Komachi Onozuka and Eiki Shiki, Yamaxanadu.",
+        "name": "Touhou Kaeizuka: Phantasmagoria of Flower View",
+        "total_rating_count": "17",
+        "total_rating": "79.79808262502243",
+        "id": "27156",
+        "involved_companies": [
+            "Team Shanghai Alice",
+            "Mediascape"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)"
+        ]
+    },
+    {
+        "summary": "In the war on terror, the battlefield is global and only one special ops squad can protect the world's freedom. it's up to you to lead this elite group through deadly missions against and enemy fuelled by hatred.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": true,
+                "offlinecoop": true,
+                "game": "5785",
+                "lancoop": false,
+                "onlinecoopmax": "4",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "8",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "ae255e4e-0bb7-f730-0d6e-a7510226b9c1",
+                "id": "1950",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co78n6.jpg",
+        "first_release_date": "1128038400",
+        "genres": [
+            "Shooter",
+            "Strategy",
+            "Tactical"
+        ],
+        "storyline": null,
+        "name": "Conflict: Global Terror",
+        "total_rating_count": "10",
+        "total_rating": "69.71936321801097",
+        "id": "5785",
+        "involved_companies": [
+            "SCi Games",
+            "Pivotal Games",
+            "2K Games"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "summary": "This new iteration of the Empires spin-off within the Dynasty Warriors series provides a more in-depth political system where players can decide what kind of lifestyle to partake in. They may opt to wander the land as a vagabond of sorts or rise up in the ranks as an ambitious officer.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": true,
+                "offlinecoop": true,
+                "game": "6834",
+                "lancoop": true,
+                "onlinecoopmax": "2",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "9",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "6600fa8b-99e2-d33e-cf52-79d89d9851a6",
+                "id": "967",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co3d5e.jpg",
+        "first_release_date": "1352332800",
+        "genres": [
+            "Strategy",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "storyline": null,
+        "name": "Dynasty Warriors 7: Empires",
+        "total_rating_count": "6",
+        "total_rating": "65.7522542024328",
+        "id": "6834",
+        "involved_companies": [
+            "Omega Force",
+            "Koei",
+            "Koei Tecmo"
+        ],
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "summary": "A stylish and original Spaghetti Western mulitplayer combat game. Secret Ponchos ambitiously delivers a new style of combat \u2013 isometric quick-twitch fighting. It\u2019s fast-paced, tactical and addictively competitive. Watch the bounty on your head increase as you gun down others in both solo and gang fights. What's your Head Worth?",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "8249",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": false,
+                "splitscreen": true,
+                "offlinecoopmax": "0",
+                "checksum": "3bdf7781-6bb2-0f2c-3826-c3f5f1026047",
+                "id": "3015",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co4900.jpg",
+        "first_release_date": "1417478400",
+        "genres": [
+            "Fighting",
+            "Shooter",
+            "Adventure",
+            "Indie"
+        ],
+        "storyline": null,
+        "name": "Secret Ponchos",
+        "total_rating_count": "5",
+        "total_rating": "62",
+        "id": "8249",
+        "involved_companies": [
+            "Switchblade Monkeys"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "summary": "MechAssault 2: Lone Wolf continues the destruction, intense combat, and online play introduced by the first MechAssault game. Set in the 31st century, the game lets you encounter new experiences in the expansive BattleTech world. Choose from a variety of weapons and vehicles--from the stealthy Raptor mech to the mech-jacking BattleArmor--all equipped with different weapon configurations and artillery. Embark on the new single-player campaign, or test your teamwork skills in the online multiplayer arena.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": true,
+                "offlinecoop": true,
+                "game": "5911",
+                "lancoop": true,
+                "onlinecoopmax": "2",
+                "onlinemax": "12",
+                "dropin": false,
+                "campaigncoop": false,
+                "platform": "11",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "5ddd22e6-7832-bf38-40bf-16e1b462f388",
+                "id": "10917",
+                "offlinemax": "12"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gar.jpg",
+        "first_release_date": "1104192000",
+        "genres": [
+            "Shooter",
+            "Simulator"
+        ],
+        "storyline": "After many searches, Major Natalia \"Nat\" Kerensky decides to base their testing operations in Dante City on the Planet Dante, using the blackmarketeers as a cover. One evening, as Foster and the MechWarrior (player) are returning to their workshop, mysterious craft enter the Dante airspace and a Stiletto BattleMech lands on the ground and starts searching for them. They successfully evade the Stiletto and make it back to the workshop, where Nat instructs the player use a new powered armor suit called the BattleArmor to stop the invaders. After this, hundreds of dropships enter Dante's atmosphere. Mysteriously, one of these dropships is shot down by the others. After fighting to the crash site, a strange new MechWarrior by the name of Alera emerges, a space pirate with a jumpship named the \"Jezebel\". Later, the MechWarrior escapes an enemy port, and steals an enemy tank from 3 soldiers in an attempt to infiltrate the enemy. An allied APC then comes out and follows the MechWarrior on his way. The tank must go through two scans to advance the level, but however, the \"Passenger Scan\" warns the enemies that it is a trick, and the MechWarrior and his allies must escape the port with a tank.\n\nAfter several confrontations with the enemy, it is discovered that the aggressors seek to access the Lostech blueprints and prototypes stored in the data cores to create an unstoppable army of mechanised soldiers to obtain dominance over the Inner Sphere, starting with mass-producing the Ragnarok Prototype model that discovered in the first game.\n\nDuring the final mission, the MechWarrior with the aid of his allies uses the BattleArmor to destroy a half-complete giant BattleMech that uses all five of the data cores.",
+        "name": "MechAssault 2: Lone Wolf",
+        "total_rating_count": "11",
+        "total_rating": "83.5548904949363",
+        "id": "5911",
+        "involved_companies": [
+            "Microsoft Game Studios",
+            "Day 1 Studios"
+        ],
+        "platforms": [
+            "Xbox"
+        ]
+    },
+    {
+        "summary": "Prepare for a different story set in the same universe as Fire Emblem: Three Houses. Shez, a mercenary whose team was decimated by Byleth in battle, joins the military academy of Garreg Mach Monastery and becomes a student in one of three classes, each including students from one of the three nations of the continent of F\u00f3dlan. Like in Three Houses, the game allows players to decide which class to join, leading to different story paths and playable characters.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "191396",
+                "lancoop": false,
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "d2e72694-0dca-a61f-af1a-c1cb825b700c",
+                "id": "28677",
+                "dropin": false,
+                "campaigncoop": true,
+                "offlinemax": "2",
+                "platform": "130"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co55jk.jpg",
+        "first_release_date": "1656028800",
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Tactical",
+            "Hack and slash/Beat 'em up"
+        ],
+        "storyline": null,
+        "name": "Fire Emblem Warriors: Three Hopes",
+        "total_rating_count": "33",
+        "total_rating": "79.7604017072328",
+        "id": "191396",
+        "involved_companies": [
+            "Nintendo",
+            "Omega Force",
+            "Team NINJA",
+            "Koei Tecmo"
+        ],
+        "platforms": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "summary": "Tristoy is a story-driven 2D co-op platformer designed from the ground up exclusively for two player co-operative gaming enjoyment!",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": true,
+                "offlinecoop": true,
+                "game": "17443",
+                "lancoop": false,
+                "onlinecoopmax": "2",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "6",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "8dfd862e-41c2-5e47-6839-1bcd5b2dc4f0",
+                "id": "1252",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/bql8xiaancjurecdtwez.jpg",
+        "first_release_date": "1421280000",
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "storyline": "Set in Tristoy, an ancient fortress in the middle of the Sea of Shards you play together as Prince Freedan and the Wizard Stayn. You and a friend are forced to team up to try and escape the dungeon and defeat a common enemy, the Witch Ink.\n\nExplore dungeons filled with traps and monsters - puzzle, jump and fight your way out as you attempt to escape from Tristoy. Designed to be played together on one screen, Tristoy\u2019s engrossing non-linear story features multiple endings and requires you to work together, testing your friendship and forcing you to confront moral dilemmas and make some hard choices.",
+        "name": "Tristoy",
+        "total_rating_count": "0",
+        "total_rating": "50",
+        "id": "17443",
+        "involved_companies": [
+            "Uniworlds Game Studios",
+            "Merge Games",
+            "Headup Games"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)"
+        ]
+    },
+    {
+        "summary": "The single-player puzzle levels in Super Monkey Ball: Banana Blitz have been designed to challenge gamers' skills like never before. For the first time in the Super Monkey Ball franchise, AiAi and his friends have the ability to jump when players flick the Nintendo Wii controller in an upward motion. The ability to jump has given game designers another dimension in which to expand the Super Monkey Ball gameplay experience and allows gamers a whole new way to interact with the franchise; this time in true three-dimensional fashion. The Party Games return with more variety than ever. An abundance of new Party Games have been designed to take advantage of the Wii controller in a multitude of ways. Gamers find themselves competing in a traditional game of ring toss, or even smacking pesky moles in a game of \"Whack-a-Mole.\"",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "5200",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "23e0522d-32a6-0c25-76d2-dac95bd35060",
+                "id": "11501",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "4",
+                "platform": "5"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co2f3p.jpg",
+        "first_release_date": "1163894400",
+        "genres": [
+            "Puzzle",
+            "Racing"
+        ],
+        "storyline": null,
+        "name": "Super Monkey Ball: Banana Blitz",
+        "total_rating_count": "15",
+        "total_rating": "79.63600377527312",
+        "id": "5200",
+        "involved_companies": [
+            "Sega",
+            "New Entertainment R&D Dept."
+        ],
+        "platforms": [
+            "Wii"
+        ]
+    },
+    {
+        "summary": "From the creators of 'Cloning Clyde' comes a new epic adventure! Eat, chant, and even puke your way through the highly comical, primeval land of Ooga! There\u2019s never a dull moment as you meet, befriend, and finally acquire seven zany Oogani tribes. Uncover their lost ancient powers, and exploit their abilities and lead them in a revolt against the tyrannical Boolis. Classic platforming/puzzle solving with a novel eat/carry/puke inventory management component. Over fifty amazing levels, plus, narcotic slugs that make you loopy!",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "16228",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "12",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "429517d3-7dca-e214-6dab-83abd6048c87",
+                "id": "534",
+                "offlinemax": "0"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co30eg.jpg",
+        "first_release_date": "1277856000",
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Indie"
+        ],
+        "storyline": null,
+        "name": "Ancients of Ooga",
+        "total_rating_count": "0",
+        "total_rating": "70",
+        "id": "16228",
+        "involved_companies": [
+            "Bacon Wrapped Games",
+            "NinjaBee.com"
+        ],
+        "platforms": [
+            "Linux",
+            "PC (Microsoft Windows)",
+            "Xbox 360"
+        ]
+    },
+    {
+        "summary": "Top Gear Rally is a 1997 racing video game developed by Boss Game Studios and released for the Nintendo 64. A follow-up to Kemco's original Top Gear game, it features a championship mode where a single player must complete six seasons of two to four races, as well as a multiplayer mode where two players may compete against each other via a split-screen display.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "3617",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "7fbff0ea-3c69-292b-0127-6fb4a61e7400",
+                "id": "14469",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "4",
+                "platform": "4"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co47wz.jpg",
+        "first_release_date": "873849600",
+        "genres": [
+            "Racing",
+            "Sport"
+        ],
+        "storyline": null,
+        "name": "Top Gear Rally",
+        "total_rating_count": "11",
+        "total_rating": "62.74087154954274",
+        "id": "3617",
+        "involved_companies": [
+            "Midway Games",
+            "Boss Game Studios",
+            "Kemco",
+            "Gradiente"
+        ],
+        "platforms": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "summary": "Ion Driver, the intergalactic racing tournament held around all corners of space, only for the most vicious racers in the entire galaxy.\n\nIn this dangerous event our competitors put their lives at stake at speeds that defy all laws of physics. Twelve racers, one winner, no crazy powerups, just pure driving skill.\n\nJoin the race, survive if you can, and prove that you\u2019re the most skilled racer in ION DRIVER.\n\nGood luck and try to keep your limbs intact!",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "164310",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": false,
+                "platform": "48",
+                "splitscreen": true,
+                "offlinecoopmax": "0",
+                "checksum": "796aa710-fa2a-a28d-3390-1d2621a272d0",
+                "id": "15998",
+                "offlinemax": "4"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co3k4l.jpg",
+        "first_release_date": "1627516800",
+        "genres": [
+            "Racing",
+            "Arcade"
+        ],
+        "storyline": null,
+        "name": "Ion Driver",
+        "total_rating_count": "1",
+        "total_rating": "20",
+        "id": "164310",
+        "involved_companies": [
+            "Gammera Nest",
+            "Moon Whale Studio"
+        ],
+        "platforms": [
+            "PlayStation 4"
+        ]
+    },
+    {
+        "summary": "Super Monkey Ball: Banana Mania is a \"modern HD remaster\" of Super Monkey Ball, Super Monkey Ball 2, and Super Monkey Ball Deluxe.\n\nThis bundle was created to celebrate the 20th anniversary of the franchise.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "152355",
+                "lancoop": false,
+                "splitscreen": true,
+                "offlinecoopmax": "4",
+                "checksum": "84e4a992-5bd7-4585-8f3a-5bb07712bdf1",
+                "id": "17169",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "4",
+                "platform": "130"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co3a1l.jpg",
+        "first_release_date": "1633392000",
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Arcade"
+        ],
+        "storyline": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It\u2019s monkey business for the gang - play solo or with friends as you take down Dr. Bad-Boon and steal back your beloved bananas!",
+        "name": "Super Monkey Ball: Banana Mania",
+        "total_rating_count": "14",
+        "total_rating": "70.65895004682169",
+        "id": "152355",
+        "involved_companies": [
+            "Sega",
+            "Ryu ga Gotoku Studios"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "summary": "Forsaken is a Sci-Fi First-Person Shooter game, developed by Probe Entertainment Limited and published by Acclaim, which was released in 1998.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "718",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "479fd21d-9d90-aad7-f424-facf641a692d",
+                "id": "14756",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "4",
+                "platform": "4"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co26f9.jpg",
+        "first_release_date": "893376000",
+        "genres": [
+            "Shooter",
+            "Racing",
+            "Simulator"
+        ],
+        "storyline": null,
+        "name": "Forsaken",
+        "total_rating_count": "14",
+        "total_rating": "60.41901768266247",
+        "id": "718",
+        "involved_companies": [
+            "Acclaim Entertainment",
+            "Probe Entertainment",
+            "Iguana Entertainment UK",
+            "Gradiente"
+        ],
+        "platforms": [
+            "Nintendo 64",
+            "PC (Microsoft Windows)",
+            "PlayStation",
+            "Sega Saturn"
+        ]
+    },
+    {
+        "summary": "After the battle is over, someone has to cleanup the mess! Introducing Viscera Cleanup Detail: Shadow Warrior from RuneStorm, a unique crossover mini-game that combines the worlds of Viscera Cleanup Detail and Shadow Warrior. Step into the rubber soled shoes of the hapless janitor tasked with cleaning up Lo Wang's mess after a devastating katana battle in the collector's temple from Shadow Warrior. Mop up pools of blood, dispose of body parts, and get the collector's gallery of antiques in tip top shape as quick as possible! Successfully clean the entire temple and collect all the scattered cash to unlock two Steam achievements!",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": true,
+                "offlinecoop": true,
+                "game": "16718",
+                "lancoop": false,
+                "onlinecoopmax": "32",
+                "splitscreen": true,
+                "offlinecoopmax": "4",
+                "checksum": "bef1d5ce-4b59-1bba-4b92-37ee5107e6f0",
+                "id": "21473",
+                "dropin": true,
+                "campaigncoop": true
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co2ig3.jpg",
+        "first_release_date": "1381449600",
+        "genres": [
+            "Simulator",
+            "Indie"
+        ],
+        "storyline": null,
+        "name": "Viscera Cleanup Detail: Shadow Warrior",
+        "total_rating_count": "22",
+        "total_rating": "60.65612240712358",
+        "id": "16718",
+        "involved_companies": [
+            "RuneStorm",
+            "Devolver Digital"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)"
+        ]
+    },
+    {
+        "summary": "TNN Motorsports Hardcore 4x4 is an off road racing game. You drive a 4x4 like a Jeep or pickup truck around cross-country loops and attempt to get to the finish line first. There are three race types. In single race mode you participate in only one race on a track of your choice against 5 other competitors. Championship allows you to race through all 6 courses in a row in an attempt to win a hidden truck. Time trial lets up to 8 players compete round-robin style for the fast lap time around a track.\n\nThis game utilizes 3D environments and truck models. The sound track features hard rock music.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "20718",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "6",
+                "dropin": false,
+                "campaigncoop": false,
+                "platform": "6",
+                "splitscreen": true,
+                "offlinecoopmax": "0",
+                "checksum": "1373e387-c0a1-ee58-5978-82e046a6772f",
+                "id": "17921",
+                "offlinemax": "2"
+            },
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "20718",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": false,
+                "platform": "7",
+                "splitscreen": true,
+                "offlinecoopmax": "0",
+                "checksum": "131b01ce-2b02-2138-3ad3-c07d7e152b68",
+                "id": "17922",
+                "offlinemax": "2"
+            },
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "20718",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": false,
+                "platform": "32",
+                "splitscreen": true,
+                "offlinecoopmax": "0",
+                "checksum": "56bb3067-2a60-0184-21dd-c48091006ff2",
+                "id": "17923",
+                "offlinemax": "2"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ect.jpg",
+        "first_release_date": "849312000",
+        "genres": [
+            "Racing",
+            "Sport"
+        ],
+        "storyline": null,
+        "name": "TNN Motorsports Hardcore 4X4",
+        "total_rating_count": "1",
+        "total_rating": "40",
+        "id": "20718",
+        "involved_companies": [
+            "American Softworks Corporation",
+            "Gremlin Interactive",
+            "Sony Computer Entertainment, Inc. (SCEI)",
+            "Human Entertainment"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation",
+            "PlayStation 3",
+            "Sega Saturn",
+            "PlayStation Portable",
+            "PlayStation Vita"
+        ]
+    },
+    {
+        "summary": "Devil Kings is in the same vein as the Dynasty Warriors series. Whereas in Dynasty Warriors, however, Koei focuses on ancient Chinese history, Devil Kings focuses more on feudal Japan, but with a fictional setting with the ability to use modern day weapons such as chain guns and shotguns as well as fighting legendary and fictional characters from the past.\n\nThe story takes place as the Devil King, a king possessed by the soul of the Devil, has unleashed an unholy army on the world to bend it to his will as the player must stop him along with many of his minions including his wife Lady Butterfly, his general the Red Minotaur, as well as loyal assassins Scorpio and Venus.\n\nThe gameplay is more arcade hack-and-slash style, with the ability of using magic spells to wipe out entire waves of enemies and as mentioned before, the ability to use modern day weapons along with historical weapons such as spears, swords among others. There are six playable characters to use as well, each with their own story told in CG and anime cutscenes as well as two modes of play, Conquest (the main story of the game) and Free Mode (where players can play in any unlocked stage they have completed).",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "22568",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "e42c9a8c-6420-e782-5ed4-2f0a039f322d",
+                "id": "23067",
+                "dropin": false,
+                "campaigncoop": false
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co6bur.jpg",
+        "first_release_date": "1121904000",
+        "genres": [
+            "Hack and slash/Beat 'em up"
+        ],
+        "storyline": null,
+        "name": "Devil Kings",
+        "total_rating_count": "1",
+        "total_rating": "70",
+        "id": "22568",
+        "involved_companies": [
+            "Capcom"
+        ],
+        "platforms": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "summary": "We Love Katamari, is a third-person puzzle-action video game where the player controls the Prince, the 5-centimeter-tall son of the god-like entity the King of All Cosmos, who rolls around a \"katamari\", a magical ball that causes objects smaller than it to attach to it. Throughout each level, the play must collect objects in order to fulfill objectives set by the prince's father.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": false,
+                "game": "6454",
+                "lancoop": false,
+                "splitscreen": true,
+                "checksum": "c98299ab-306a-084c-5e88-e9b94becb15f",
+                "id": "11085",
+                "dropin": false,
+                "campaigncoop": false,
+                "offlinemax": "2",
+                "platform": "8"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co4af9.jpg",
+        "first_release_date": "1120608000",
+        "genres": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "storyline": "We Love Katamari tells two stories: a self-referential story of how the King of All Cosmos is reacting to the unexpected success of Katamari Damacy, and an origin story of how the King of All Cosmos became the King of All Cosmos, met his wife, and had his son.\n\nReaction to the success of Katamari Damacy:\nAfter completing his goal to recreate the stars in the sky, the King of All Cosmos was surprised to discover that he had many fans down on Earth. Thus begins We Love Katamari, where the King of All Cosmos seeks to help fulfill the wishes of his fans\u2014with the help from his son and his son's cousins, who again travel Earth, rolling things up into a Katamari.\n\nThe King of All Cosmos\u2019s origin:\nThe King of All Cosmos's history is told in We Love Katamari\u2019s cut scenes, interspersed between the game\u2019s stages.\nThe King of All Cosmos was not always the King. His father was the previous King of All Cosmos (also called Emperor of the Cosmos, or Papa). The future King of All Cosmos grew up either on Earth itself or a planet very much like it, in a giant castle on a hill surrounded by green fields. (Though, early in the game, we are to believe all action takes place in a world called \u201cThe Great Cosmos\u201d.)",
+        "name": "We Love Katamari",
+        "total_rating_count": "40",
+        "total_rating": "88.61361608616537",
+        "id": "6454",
+        "involved_companies": [
+            "NOW Production",
+            "Namco",
+            "Electronic Arts",
+            "Keita Takahashi"
+        ],
+        "platforms": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "summary": "Meet kitties as the main heroes of the new go-kart racing game! Overcome difficulties of the tracks drifting through mines and bombs, stop\nyour competitors blasting them with bubble gum and other astonishing weapons. And don\u2019t forget to gather power-ups to be the fastest on the track.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "102208",
+                "lancoop": false,
+                "onlinecoopmax": "0",
+                "onlinemax": "0",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "6",
+                "splitscreen": true,
+                "offlinecoopmax": "4",
+                "checksum": "0d725ad0-a36b-a866-e04c-5baf831685b4",
+                "id": "8925",
+                "offlinemax": "4"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co24b9.jpg",
+        "first_release_date": "1528070400",
+        "genres": [
+            "Racing",
+            "Indie",
+            "Arcade"
+        ],
+        "storyline": "Meow Motors is a kart racer where cats rule the show. It's definitely a nice PC (and later xbox & ps) alternative to Mario Kart with vivid graphics, unique design style and cutest characters.",
+        "name": "Meow Motors",
+        "total_rating_count": "4",
+        "total_rating": "65.5",
+        "id": "102208",
+        "involved_companies": [
+            "Artvostok",
+            "Artvostok"
+        ],
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "summary": "Meet Pikmin, small, plantlike creatures you can grow, pluck, command, and overpower your enemies with! These curious helpers come in different types\u2014fire is no sweat for Red Pikmin and the brand-new Ice Pikmin can freeze enemies and the environment. Use your Pikmin\u2019s miniature might (and a bit of strategy) to explore this mysterious planet.\n\nYou get a dog, too! Oatchi, resident good boy and dependable partner, can help with things like smashing obstacles and carrying Pikmin throughout your adventure. With the miniscule Pikmin and a capable canine in tow, no challenge is too big!",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "59843",
+                "lancoop": false,
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "4c4b6a48-4df6-9aae-3533-ad3980f08a46",
+                "id": "25531",
+                "dropin": false,
+                "campaigncoop": true,
+                "offlinemax": "2",
+                "platform": "130"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co657e.jpg",
+        "first_release_date": "1689897600",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Strategy",
+            "Adventure"
+        ],
+        "storyline": null,
+        "name": "Pikmin 4",
+        "total_rating_count": "27",
+        "total_rating": "86.75380632423527",
+        "id": "59843",
+        "involved_companies": [
+            "Nintendo",
+            "Nintendo EPD",
+            "Eighting"
+        ],
+        "platforms": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "summary": "See Hyrule 100 years before the Legend of Zelda: Breath of the Wild game and experience the events of the Great Calamity.\n\nJoin the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to see firsthand what happened 100 years ago.\n\nBattle hordes of Hyrule\u2019s most formidable foes. From barbaric Bokoblins to towering Lynels, menacing monsters have emerged in droves. In addition to Link and Zelda, take control of characters like the four Champions and a young Impa. Use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.",
+        "multiplayer_modes": [
+            {
+                "onlinecoop": false,
+                "offlinecoop": true,
+                "game": "138343",
+                "lancoop": false,
+                "onlinecoopmax": "1",
+                "onlinemax": "1",
+                "dropin": false,
+                "campaigncoop": true,
+                "platform": "130",
+                "splitscreen": true,
+                "offlinecoopmax": "2",
+                "checksum": "f761350b-13ae-6350-a7f0-0c7bb3a8c8d7",
+                "id": "17113",
+                "offlinemax": "2"
+            }
+        ],
+        "cover_url": "//images.igdb.com/igdb/image/upload/t_thumb/co3p4a.jpg",
+        "first_release_date": "1605744000",
+        "genres": [
+            "Fighting",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "storyline": "The story begins 100 years before the events in the Legend of Zelda: Breath of the Wild game. A young soldier named Link is asked to guard Princess Zelda. Impa, Zelda, and Link are shown. Link stands alongside the champions of Hyrule. They travel with Impa to four different regions to recruit mighty champions to help defend Hyrule against an impending attack from Calamity Ganon.",
+        "name": "Hyrule Warriors: Age of Calamity",
+        "total_rating_count": "58",
+        "total_rating": "80.3118842259646",
+        "id": "138343",
+        "involved_companies": [
+            "Nintendo",
+            "Omega Force",
+            "Koei Tecmo"
+        ],
+        "platforms": [
+            "Nintendo Switch"
+        ]
+    }
+]
