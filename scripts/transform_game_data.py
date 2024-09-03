@@ -26,7 +26,6 @@ dynamodb = boto3.resource('dynamodb', endpoint_url=DYNAMODB_ENDPOINT_URL, region
 table = dynamodb.Table(DYNAMODB_TABLE_NAME)
 
 def process_message(message_body):
-    print(f"FOOBAR{message_body}")
     game = json.loads(message_body, parse_float=Decimal)
 
     # Check for split-screen multiplayer
@@ -52,7 +51,6 @@ def process_message(message_body):
             'involved_companies': game.get('involved_companies', [])
         }
 
-        print(f"DEBUG: {item}")
         try:
             response = table.put_item(
                 Item=item,
